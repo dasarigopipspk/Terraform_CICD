@@ -7,6 +7,6 @@ resource "aws_instance" "dev" {
     instance_type = "t2.micro"
     key_name = "calif"
     tags = {
-      Name = "dev123"
+      Name = "tanuja"
     }
 }
